@@ -9,7 +9,6 @@
 import SwiftUI
 
 struct CheckListItem{
-    var id:Int
     var isChecked: Bool = false
     var title: String
 }
